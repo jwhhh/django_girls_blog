@@ -1,0 +1,10 @@
+# .gitignore
+django_env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*~
+db.sqlite3
+.env
+.DS_Store
